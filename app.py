@@ -10,7 +10,7 @@ rcc = RCC()
 memory = SaveManager()
 
 # UI Header
-st.title("🧠 Cognize")
+st.title("Cognize")
 st.caption("Epacog’s Recursive Cognition Simulator")
 st.markdown("Simulating epistemic drift, rupture, and reception mutation under RCC control.")
 st.code(f"MODE: {MODE.upper()}", language="yaml")
