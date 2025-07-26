@@ -1,4 +1,4 @@
-# RCC Cognitive Rupture Simulator
+# Cognize: An RCC-Based Cognitive Control System
 
 **Author:** Pulikanti Sashi Bharadwaj  
 **Project:** Epacog Cognitive Systems  
