@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 What is This?
+## What is This?
 
 This simulator brings the theory of **Recursion Control Calculus (RCC)** into an operational framework. It simulates how cognition—human or artificial—undergoes drift, rupture, and recursive mutation.
 
@@ -14,19 +14,19 @@ Rather than correcting hallucinations, this system simulates what happens *after
 
 ---
 
-## 🔧 Features
+## Features
 
-- ✅ Epistemic state simulation: V(t), R(t), ∆(t), E(t), Θ(t), S̄(t)
-- ✅ RCC logic: Axioms 1–6 and non-associative continuity monad
-- ✅ Projected divergence for rupture forecasting
-- ✅ Mutated reception simulation (post-rupture perception distortion)
-- ✅ GPT4All / OpenAI / synthetic R(t) modes
-- ✅ Graphs + full savepoint timelines
-- ✅ Streamlit interface for public or local deployment
+- Epistemic state simulation: V(t), R(t), ∆(t), E(t), Θ(t), S̄(t)
+- RCC logic: Axioms 1–6 and non-associative continuity monad
+- Projected divergence for rupture forecasting
+- Mutated reception simulation (post-rupture perception distortion)
+- GPT4All / OpenAI / synthetic R(t) modes
+- Graphs + full savepoint timelines
+- Streamlit interface for public or local deployment
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 # Install dependencies
@@ -45,7 +45,7 @@ pip install gpt4all
 
 ---
 
-## 🔐 API Keys (Optional)
+## API Keys
 
 If using OpenAI mode, create a `.streamlit/secrets.toml` file:
 
@@ -55,7 +55,7 @@ OPENAI_API_KEY = "sk-..."
 
 ---
 
-## 🧬 Architecture
+## Architecture
 
 ```
 rcc_simulator/
@@ -73,7 +73,7 @@ rcc_simulator/
 
 ---
 
-## 🌐 Credits
+## Credits
 
 This tool is powered by **Epacog** — a deployment layer for recursive cognitive systems based on RCC and Continuity Theory. Built by **Pulikanti Sashi Bharadwaj**, 2025.
 
