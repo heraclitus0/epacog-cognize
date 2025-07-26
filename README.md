@@ -2,7 +2,6 @@
 
 **Author:** Pulikanti Sashi Bharadwaj  
 **Project:** Epacog Cognitive Systems  
-**Grade:** Apple-Grade Cognitive Tooling  
 **License:** MIT
 
 ---
