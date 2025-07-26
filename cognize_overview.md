@@ -9,7 +9,7 @@
 
 ---
 
-## 🧠 Executive Summary
+## Executive Summary
 
 Cognize is an epistemic rupture simulation engine. It is designed not to eliminate hallucinations, but to **make them visible, traceable, and epistemically explainable**. It simulates the recursive internal mechanics that cause LLMs — or cognition systems more broadly — to fracture, diverge, reset, and adapt based on **epistemic drift**.
 
@@ -19,7 +19,7 @@ Unlike most safety frameworks, Cognize treats hallucination as a structurally em
 
 ---
 
-## 🧬 Theory: RCC (Recursion Control Calculus)
+## Theory: RCC (Recursion Control Calculus)
 
 RCC defines the internal variables of a recursive cognitive system as follows:
 
@@ -52,7 +52,7 @@ Each timestep produces a full **SavePoint** trace. This enables users to see:
 
 ---
 
-## 🖥️ Functionality Walkthrough (via Streamlit UI)
+## Functionality Walkthrough (via Streamlit UI)
 
 ### Simulation Flow
 
@@ -75,7 +75,7 @@ Each timestep produces a full **SavePoint** trace. This enables users to see:
 
 ---
 
-## 🔌 LLM Integration Modes
+## LLM Integration Modes
 
 The system can operate in multiple runtime environments:
 
@@ -89,7 +89,7 @@ This modularity ensures Cognize can be run without API cost (synthetic), or with
 
 ---
 
-## 🧱 Architecture
+## Architecture
 
 ```shell
 cognize/
@@ -105,7 +105,7 @@ cognize/
 
 ---
 
-## 💡 Epistemic Implications
+## Epistemic Implications
 
 Cognize is not about accuracy — it's about **cognitive shape**.
 It treats perception not as output, but as a recursive function of projection and mutation under distortion.
@@ -119,7 +119,7 @@ The tool reveals:
 
 ---
 
-## 📈 Roadmap for Control Layer Evolution
+## Roadmap for Control Layer Evolution
 
 | Stage | Goal |
 |-------|------|
@@ -130,7 +130,7 @@ The tool reveals:
 
 ---
 
-## 🧭 Strategic Value
+## Strategic Value
 
 This simulator becomes the **foundational control engine** for building rupture-aware cognition. Instead of wrapping LLMs with validators or RLHF, it wraps them with an **epistemic feedback loop**.
 
@@ -143,7 +143,7 @@ A real-time epistemic feedback engine.
 
 ---
 
-## 📬 Who Should Use Cognize
+## Who Should Use Cognize
 
 - AI safety researchers modeling drift/epistemology
 - Cognitive scientists studying recursive feedback collapse
@@ -152,7 +152,7 @@ A real-time epistemic feedback engine.
 
 ---
 
-## 🌐 Acknowledgements
+## Acknowledgements
 
 - **Pulikanti Sashi Bharadwaj** — Author, RCC theorist, and builder of Cognize
 - **Epacog** — Cognitive deployment architecture housing RCC, RD, and Syllix
@@ -161,15 +161,15 @@ A real-time epistemic feedback engine.
 
 ---
 
-## 🔗 Resources
+## Resources
 - RCC Paper: [Recursion Control Calculus on Zenodo](https://doi.org/10.5281/zenodo.15730197)
-- Streamlit App: [Live Instance Link](https://share.streamlit.io/...) ← add your deployment link
+- Streamlit App: [Live Instance Link](https://epacog-cognize-iiphvvnqqbzekc62zcsubf.streamlit.app/)
 - GitHub: [epacog-cognize](https://github.com/heraclitus0/epacog-cognize)
 - Epacog Repository: [coming soon]
 
 ---
 
-## 🧠 Final Framing
+## Final Framing
 
 > Cognize isn’t meant to respond.
 > It’s meant to remember.
