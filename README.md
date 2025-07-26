@@ -3,7 +3,7 @@
 **Author:** Pulikanti Sashi Bharadwaj  
 **Project:** Epacog Cognitive Systems  
 **License:** MIT
-- Streamlit App: [Live Instance Link](https://epacog-cognize-iiphvvnqqbzekc62zcsubf.streamlit.app/)
+- **Streamlit App:** [Live Instance Link](https://epacog-cognize-iiphvvnqqbzekc62zcsubf.streamlit.app/)
 - **Overview:** [epacog-cognize](https://github.com/heraclitus0/epacog-cognize/cognize_overview.md)  
 ---
 
